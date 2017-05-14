@@ -10,7 +10,7 @@ public class Fab {
         public static void main(String[] args) {
                
                 //number of elements to generate in a series
-                int limit = 20;
+                int limit = 20
                
                 long[] series = new long[limit];
                

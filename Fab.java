@@ -4,7 +4,7 @@
         Fibonacci Series using Java.
 */
  
-public class JavaFibonacciSeriesExample {
+public class Fab {
  
         public static void main(String[] args) {
                
